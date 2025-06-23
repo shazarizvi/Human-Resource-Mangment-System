@@ -1,0 +1,21 @@
+Employee_ID,First_Name,Last_Name,Department,Position,Salary,Date_of_Hire,Email,Phone_Number,Address,Status
+E001,John,Doe,IT,Software Engineer,75000,15-03-2021,john.doe@example.com,555-1234,123 Elm St,Active
+E002,Jane,Smith,HR,HR Manager,82000,22-07-2019,jane.smith@example.com,555-5678,456 Oak St,Active
+E003,Bob,Johnson,Finance,Accountant,60000,12-01-2020,bob.johnson@example.com,555-8765,789 Pine St,Active
+E004,Alice,Williams,Marketing,Marketing Specialist,65000,10-09-2022,alice.williams@example.com,555-2345,321 Maple St,Active
+E005,Charlie,Brown,IT,System Administrator,70000,30-05-2018,charlie.brown@example.com,555-4321,654 Cedar St,Active
+E006,Eva,Green,Sales,Sales Representative,55000,03-12-2020,eva.green@example.com,555-3456,987 Birch St,Active
+E007,Frank,Harris,IT,Data Analyst,72000,08-10-2021,frank.harris@example.com,555-6789,147 Spruce St,On Leave
+E008,Grace,Lee,HR,Recruiter,58000,25-07-2020,grace.lee@example.com,555-9876,258 Fir St,Active
+E009,Henry,Adams,Finance,Financial Analyst,69000,13-11-2019,henry.adams@example.com,555-4567,369 Walnut St,Resigned
+E010,Ivy,Miller,Marketing,Social Media Manager,67000,19-02-2021,ivy.miller@example.com,555-7654,741 Willow St,Active
+E011,Jack,White,Sales,Sales Manager,80000,22-04-2022,jack.white@example.com,555-1122,852 Poplar St,Active
+E012,Kayla,Davis,IT,Network Engineer,74000,08-03-2019,kayla.davis@example.com,555-3344,963 Ash St,Active
+E013,Liam,Baker,HR,HR Assistant,52000,15-09-2020,liam.baker@example.com,555-5566,174 Cypress St,Active
+E014,Mia,Clark,Finance,Accountant,60000,29-12-2018,mia.clark@example.com,555-7788,285 Redwood St,On Leave
+E015,Noah,Evans,Marketing,Content Writer,53000,18-06-2021,noah.evans@example.com,555-9900,396 Sequoia St,Active
+E016,Olivia,Hughes,Sales,Sales Representative,55000,05-10-2019,olivia.hughes@example.com,555-1133,507 Magnolia St,Active
+E017,Paul,Scott,IT,Software Engineer,76000,27-02-2022,paul.scott@example.com,555-2244,618 Palm St,Active
+E018,Quinn,Morris,HR,HR Specialist,61000,09-04-2020,quinn.morris@example.com,555-3355,729 Sycamore St,Active
+E019,Rachel,Walker,Finance,Chief Financial Officer,120000,16-07-2018,rachel.walker@example.com,555-4466,840 Dogwood St,Active
+E020,Sam,Young,Marketing,Brand Manager,68000,05-11-2021,sam.young@example.com,555-5577,951 Hickory St,Active
